@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @El-Chicken
-- 👀 I’m interested in B E E R
-- 🌱 I’m currently learning B E E R
-- 💞️ I’m looking to collaborate on B E E R
-- 📫 How to reach me B E E R
+- 👀 I’m interested in AI, Azure and automating my job.
+- 🌱 I’m currently learning Azure, Azure, Azure.
+- 💞️ I’m looking to collaborate on Mario Kart Wii.
+- 📫 How to reach me: https://www.linkedin.com/in/jeroencoppens1999/
 
 <!---
 El-Chicken/El-Chicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
