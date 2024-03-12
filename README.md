@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @El-Chicken
 - 👀 I’m interested in AI, Azure and currently focusing on RAG.
-- 🌱 I’m currently learning Azure, Azure and more Azure. Also looking at deeplearning.ai for tutorials.
+- 🌱 I’m currently learning Azure, Azure and more Azure. Planning to further look at deeplearning.ai to deepen my knowledge.
 - 💞️ I’m looking to collaborate on Mario Kart Wii [certified pro racing driver]
 - 📫 How to reach me: https://www.linkedin.com/in/jeroencoppens1999/
 
